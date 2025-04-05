@@ -1,0 +1,17 @@
+DROP TABLE IF EXISTS Creators;
+
+DROP TABLE IF EXISTS Awards;
+
+DROP TABLE IF EXISTS CreatorRating;
+
+DROP TABLE IF EXISTS CreatorContracts;
+
+DROP TABLE IF EXISTS CreatorEarnings;
+
+DROP TABLE IF EXISTS CreatorCollab;
+
+DROP TABLE IF EXISTS CreatorContent;
+
+DROP TABLE IF EXISTS Contents;
+
+DROP TABLE IF EXISTS CreatorRoles;
