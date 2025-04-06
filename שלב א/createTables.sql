@@ -1,7 +1,7 @@
 CREATE TABLE if not exists Contents
 (
   Content_id INT NOT NULL,
-  Title VARCHAR(50) NOT NULL,
+  Title VARCHAR(100) NOT NULL,
   Release_year INT NOT NULL,
   Genre VARCHAR(50) NOT NULL,
   PRIMARY KEY (Content_id)
