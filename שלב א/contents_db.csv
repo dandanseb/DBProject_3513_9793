@@ -1,5 +1,5 @@
 Content_id,title,Release_year,genre
-1,Godzilla and Mothra: The Battle for Earth (Gojira vs. Mosura),1993,Action|Sci-Fi
+1,Godzilla and Mothra: The Battle for Earth,1993,Action|Sci-Fi
 2,My Best Girl,1998,Comedy|Romance
 3,Adventures of a Dentist,1995,Comedy
 4,"Wall, The (Die Wand)",2003,Drama|Fantasy
@@ -30,11 +30,11 @@ Content_id,title,Release_year,genre
 29,As You Like It,1986,Comedy
 30,Revenge of the Zombies,1985,Horror
 31,Travels with My Aunt,1988,Adventure|Comedy|Drama
-32,To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence),2006,Comedy|Drama
+32,To Each His Own Cinema ,2006,Comedy|Drama
 33,Charlie Chan at the Race Track,1984,Comedy|Crime|Mystery|Thriller
 34,Missionary Man,2002,Action|Drama|Thriller|Western
 35,Black Sunday (La maschera del demonio),1992,Horror
-36,Princess Ka'iulani,1992,Drama|Romance
+36,"Princess Ka'iulani",1992,Drama|Romance
 37,Mikey and Nicky,1992,Drama
 38,Ballou,2006,Documentary|Musical
 39,Intruders,2008,Horror|Thriller
@@ -96,12 +96,12 @@ Content_id,title,Release_year,genre
 95,"SpongeBob SquarePants Movie, The",2008,Adventure|Animation|Children|Comedy
 96,Just Like a Woman,2007,Drama
 97,Sweet Nothing,2004,Drama
-98,The True Story of Puss 'n Boots,1995,Adventure|Animation|Children
+98,The True Story of Puss n Boots,1995,Adventure|Animation|Children
 99,"Age of Innocence, The",2008,Drama|Romance
-100,"Fifth Cord, The (Giornata nera per l'ariete)",2013,Mystery|Thriller
-101,Love Torn in Dream (Combat d'amour en songe),2010,Drama|Fantasy
+100,"Fifth Cord",2013,Mystery|Thriller
+101,Love Torn in Dream ,2010,Drama|Fantasy
 102,Tomcats,2009,Comedy
-103,Hangin' with the Homeboys,2012,Comedy|Drama
+103,"Hangin with the Homeboys",2012,Comedy|Drama
 104,"Grocer's Son, The (Fils de l'épicier, Le)",2005,Drama|Romance
 105,Crips and Bloods: Made in America,2002,Documentary
 106,Whose Life Is It Anyway?,1992,Drama
@@ -117,7 +117,7 @@ Content_id,title,Release_year,genre
 116,Antonia's Line (Antonia),2010,Comedy|Drama
 117,Holy Motors,1996,Drama|Fantasy|Musical|Mystery|Sci-Fi
 118,Masculin Féminin,1998,Drama
-119,"Earth Trembles, The (Terra trema: Episodio del mare, La)",2007,Drama
+119,"The Earth Trembles",2007,Drama
 120,The Seven Males,2009,Comedy|Western
 121,Why Not? (Eijanaika),2002,Drama
 122,Free Birds,1995,Action|Adventure|Animation|Children|Comedy|Sci-Fi
@@ -142,8 +142,8 @@ Content_id,title,Release_year,genre
 141,The Improv: 50 Years Behind the Brick Wall,2007,Comedy|Documentary
 142,Until the End of the World (Bis ans Ende der Welt),2002,Adventure|Drama|Sci-Fi
 143,Any Wednesday (Bachelor Girl Apartment),2007,Comedy
-144,Merrill's Marauders,2007,Adventure|Drama|War
-145,Rebirth of Mothra II,1998,Action|Fantasy
+144,"Merrill's Marauders",2007,Adventure|Drama|War
+145,"Rebirth of Mothra II",1998,Action|Fantasy
 146,Ruby Sparks,2011,Comedy|Fantasy|Romance
 147,"See You Tomorrow, Everyone",1994,Drama
 148,"Answer Man, The (a.k.a. Arlen Faber)",1992,Comedy|Romance
@@ -161,8 +161,8 @@ Content_id,title,Release_year,genre
 160,We Still Kill the Old Way,2008,Crime
 161,Forgotten,1996,Drama|Mystery|Thriller
 162,"Straight Story, The",2004,Adventure|Drama
-163,Mama's Boy,2001,Comedy|Drama
-164,Il fiore dai petali d'acciaio,2007,Thriller
+163,"Mama's Boy",2001,Comedy|Drama
+164,"Il fiore dai petali d'acciaio",2007,Thriller
 165,Kinyarwanda,2008,Drama|Romance
 166,Música Campesina (Country Music),2010,Comedy|Drama
 167,Scary Movie 5 (Scary MoVie),2007,Comedy
@@ -174,18 +174,18 @@ Content_id,title,Release_year,genre
 173,Electric Dragon 80.000 V,1994,Drama|Fantasy|Sci-Fi
 174,"47 Samurai (Chûshingura) (Loyal 47 Ronin, The)",1999,Drama
 175,Glee: The 3D Concert Movie,2009,Documentary|Musical
-176,Manuel on the Island of Wonders (Manoel dans l'île des merveilles),2007,Drama
+176,Manuel on the Island of Wonders,2007,Drama
 177,Moloch (Molokh),1992,Drama
 178,Sometimes They Come Back,2002,Drama|Fantasy|Horror|Thriller
 179,A Blank on the Map,2007,Documentary
 180,"Man Who Couldn't Say No, The (Mies joka ei osannut sanoa EI)",2003,Comedy|Drama|Romance
-181,Where's Poppa?,2011,Comedy
+181,"Where's Poppa?",2011,Comedy
 182,Figures in a Landscape,2005,Thriller
 183,Attack!,2002,Drama|War
 184,Summer Things (Embrassez qui vous voudrez),1995,Comedy|Drama|Romance
 185,Paris Trout,2000,Drama
 186,Loves of a Blonde (Lásky jedné plavovlásky),1996,Comedy|Drama|Romance
-187,"Marcello Mastroianni: I Remember Yes, I Remember (Marcello Mastroianni: mi ricordo, sì, io mi ricordo)",1992,Documentary
+187,"Marcello Mastroianni: I Remember Yes, I Remember",1992,Documentary
 188,Rosenstrasse,2006,Drama|War
 189,Exit,2003,Drama
 190,Operation Dumbo Drop,2011,Action|Adventure|Comedy|War
@@ -235,40 +235,40 @@ Content_id,title,Release_year,genre
 234,Tycoon,2000,Adventure|Drama|Romance
 235,"Garden, The",1996,Drama
 236,Forever Hardcore: The Documentary,2004,Documentary
-237,Another Nine & a Half Weeks (Love in Paris) (9 1/2 Weeks II) (Another 9 1/2 Weeks),1965,Drama|Romance
+237,Another Nine & a Half Weeks (Love in Paris),1965,Drama|Romance
 238,"Lady Eve, The",1994,Comedy|Romance
-239,Twilight's Last Gleaming,2003,Thriller
+239,"Twilight's Last Gleaming",2003,Thriller
 240,"Machine, The",1986,Comedy|Horror|Sci-Fi|Thriller
 241,Children On Their Birthdays,2012,Drama
 242,"Moon Warriors, The (Zhan shen chuan shuo)",2011,Action|Adventure
 243,Project Moon Base,1998,Sci-Fi
 244,Corridors of Blood,1993,Crime|Drama|Horror|Thriller
 245,Final Destination 3,1996,Horror|Mystery|Thriller
-246,Baadasssss! (How to Get the Man's Foot Outta Your Ass),2008,Drama
+246,Baadasssss! ,2008,Drama
 247,Big Buck Bunny,2005,Animation|Comedy
 248,Ong-Bak: The Thai Warrior (Ong Bak),2005,Action|Thriller
-249,Big Momma's House 2,2005,Action|Comedy|Crime
+249,"Big Momma's House 2",2005,Action|Comedy|Crime
 250,Hamlet 2,1984,Comedy
 251,Mutantes,1992,Documentary
 252,For the Moment,2002,Romance|War
 253,Home Room,1996,Drama
 254,Nine Lives,1996,Horror|Thriller
 255,Aftermath,2011,Horror
-256,I'm with Lucy,2010,Comedy|Romance
+256,"I'm with Lucy",2010,Comedy|Romance
 257,Trick,1995,Comedy|Romance
 258,"Story of Yonosuke, A (Yokomichi Yonosuke)",1984,Comedy|Drama
 259,Shadows,1993,Drama
 260,Karen Cries on the Bus,1998,Drama
 261,"Delta Force, The",2003,Action
 262,Maybe Baby,2012,Comedy|Romance
-263,Miller's Crossing,1989,Crime|Drama|Film-Noir|Thriller
+263,"Miller's Crossing",1989,Crime|Drama|Film-Noir|Thriller
 264,Little Monsters,1996,Comedy
-265,Child's Play 3,2008,Comedy|Horror|Thriller
-266,Harley Davidson and the Marlboro Man,1992,Action|Crime|Drama
+265,"Child's Play 3",2008,Comedy|Horror|Thriller
+266,"Harley Davidson and the Marlboro Man",1992,Action|Crime|Drama
 267,Holiday (Jour de fête),2006,Comedy
 268,Titanic,1991,Drama|Romance
-269,"Rumor of Angels, A",2008,Drama
-270,"Havre, Le",1998,Comedy|Drama
+269,"A Rumor of Angels",2008,Drama
+270,"Le Havre",1998,Comedy|Drama
 271,Mysterious Skin,2008,Drama|Mystery
 272,"Beach Boys: An American Family, The",1995,Documentary|Drama
 273,"Black Sabbath (Tre volti della paura, I)",2006,Horror
@@ -285,15 +285,15 @@ Content_id,title,Release_year,genre
 284,Kaleidoscope,2007,Comedy|Crime
 285,Rabid Dogs (Kidnapped) (Cani arrabbiati),2006,Drama|Thriller
 286,In the Hands of the Gods,2007,Documentary
-287,Man's Favorite Sport?,2012,Comedy
-288,33 Postcards,1989,Drama
+287,"Man's Favorite Sport?",2012,Comedy
+288,"33 Postcards",1989,Drama
 289,Step Up Love Story (Futari ecchi),2000,Animation|Comedy|Romance
 290,Our Summer in Provence,2010,Comedy|Drama
 291,Song of the Bloodred Flower (Laulu tulipunaisesta kukasta),1985,Drama
 292,Universal Soldier: Day of Reckoning,1969,Action|Sci-Fi|Thriller
 293,Frogs for Snakes,2004,Comedy|Film-Noir|Thriller
 294,"Back-up Plan, The",2001,Comedy|Romance
-295,"Autobiography of Nicolae Ceausescu, The (Autobiografia lui Nicolae Ceausescu)",2011,Documentary
+295,"The Autobiography of Nicolae Ceausescu",2011,Documentary
 296,Full of It,1997,Comedy|Drama
 297,"Khroustaliov, My Car! (Khrustalyov, mashinu!)",2010,Comedy|Drama
 298,Dead Genesis,2001,Horror
@@ -303,10 +303,10 @@ Content_id,title,Release_year,genre
 302,Rancho Deluxe,1994,Comedy|Western
 303,Abbott and Costello Meet the Keystone Kops,2003,Comedy
 304,Arthur,2011,Comedy|Romance
-305,"Christmas Carol, A",1995,Animation|Children|Drama|Fantasy|IMAX
+305,"Christmas Carol",1995,Animation|Children|Drama|Fantasy|IMAX
 306,Flesh and Bone,2007,Drama|Mystery|Romance
 307,Bliss (Mutluluk),2007,Drama
-308,Say It Isn't So,1995,Comedy|Romance
+308,"Say It Isn't So",1995,Comedy|Romance
 309,Clandestine Childhood,2005,Drama
 310,Dog Days (Hundstage),2003,Drama
 311,Aladdin,1997,Adventure|Fantasy
@@ -327,7 +327,7 @@ Content_id,title,Release_year,genre
 326,Of Horses and Men,1989,Comedy|Drama|Romance
 327,"Delicate Balance, A",1996,Drama
 328,Chouchou,1998,Comedy
-329,Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi),2013,Action|Adventure|Animation|Children
+329,Dragon Ball: The Path to Power ,2013,Action|Adventure|Animation|Children
 330,Mulan,1984,Action|Adventure|Drama|Romance
 331,"Blue Max, The",1995,Adventure|Drama|War
 332,The Smiling Ghost,2008,Comedy|Mystery
@@ -397,8 +397,8 @@ Content_id,title,Release_year,genre
 396,"Perfect Plan, A (Plan parfait, Un)",2010,Adventure|Comedy|Romance
 397,Dark Habits (Entre tinieblas),1985,Comedy|Drama
 398,Shadows and Fog,1993,Comedy|Drama|Mystery|Thriller
-399,Morgan Stewart's Coming Home,2004,Comedy
-400,"Yes, Madam (a.k.a. Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie)",1966,Action
+399,"Morgan Stewart's Coming Home",2004,Comedy
+400,"Yes, Madam ",1966,Action
 401,"Brony Tale, A",2008,Documentary
 402,Flaming Star,2009,Western
 403,Outskirts (Okraina),2007,Drama|War
@@ -406,7 +406,7 @@ Content_id,title,Release_year,genre
 405,Geronimo,2001,Action|Western
 406,Family Meeting,2007,Documentary|Musical
 407,Medea,2006,Drama
-408,Shakespeare's Globe: Henry V,1999,Drama
+408,"Shakespeare's Globe: Henry V",1999,Drama
 409,"Day Without a Mexican, A",2011,Comedy|Drama|Fantasy|Mystery
 410,Simon Birch,1993,Drama
 411,B.U.S.T.E.D (Everybody Loves Sunshine) (Busted),2010,Crime|Drama
@@ -422,7 +422,7 @@ Content_id,title,Release_year,genre
 421,Someone Marry Barry,2007,Comedy
 422,Peacock,2003,Thriller
 423,Kambakkht Ishq (Incredible Love),2009,Action|Comedy|Musical
-424,Stanley Kubrick's Boxes,2008,Documentary
+424,"Stanley Kubrick's Boxes",2008,Documentary
 425,"Life and Adventures of Santa Claus, The",2006,Animation|Children
 426,Arrowsmith,2010,Drama
 427,"Minion, The",1993,Action|Fantasy|Horror
@@ -466,7 +466,7 @@ Content_id,title,Release_year,genre
 465,G Men,2000,Crime|Drama
 466,Mademoiselle Chambon,2005,Drama|Romance
 467,Brake,1990,Crime|Thriller
-468,Finder's Fee,1996,Drama|Thriller
+468,"Finder's Fee",1996,Drama|Thriller
 469,"Quiet Duel, The (Shizukanaru ketto)",1991,Drama
 470,Path to War,2009,Drama
 471,Gregory Go Boom,1996,Comedy
@@ -508,11 +508,11 @@ Content_id,title,Release_year,genre
 507,Valentino: The Last Emperor,2009,Documentary
 508,Klip (Clip),1998,Drama|Romance
 509,"Seeker: The Dark Is Rising, The",2012,Action|Adventure|Drama|Fantasy
-510,I'm Not Rappaport,1985,Comedy
+510,"I'm Not Rappaport",1985,Comedy
 511,Man of Iron (Czlowiek z Zelaza),1988,Drama|Romance
 512,"Man Without a Past, The (Mies vailla menneisyyttä)",2004,Comedy|Crime|Drama
 513,Eye of the Needle,2004,Thriller
-514,National Lampoon's Pucked,1991,Comedy
+514,"National Lampoon's Pucked",1991,Comedy
 515,Pumping Iron,1996,Documentary
 516,"Ballad of the Sad Cafe, The",2004,Drama
 517,Sands of Iwo Jima,1998,Action|Drama|Romance|War
@@ -556,22 +556,22 @@ Content_id,title,Release_year,genre
 555,DysFunktional Family,1987,Comedy|Documentary
 556,After the Wedding (Efter brylluppet),2011,Drama
 557,"Codes of Gender, The",1998,Documentary
-558,Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland,1992,Comedy|Documentary
-559,Do You Like Hitchcock? (Ti piace Hitchcock?),1995,Horror|Mystery|Thriller
+558,"Vince Vaughn's Wild West Comedy Show:Hollywood to the Heartland",1992,Comedy|Documentary
+559,"Do You Like Hitchcock? ",1995,Horror|Mystery|Thriller
 560,Night Train,1997,Action|Mystery|Thriller
 561,"Killing Room, The",2009,Drama|Mystery|Thriller
 562,"Cat in Paris, A (Une vie de chat)",1993,Animation|Crime|Mystery
-563,Andy Hardy's Double Life,2006,Comedy|Romance
+563,"Andy Hardy's Double Life",2006,Comedy|Romance
 564,"Palm Beach Story, The",2005,Comedy
-565,Ministry of Fear,2007,Drama|Film-Noir|Thriller
+565,"Ministry of Fear",2007,Drama|Film-Noir|Thriller
 566,"Sea Is Watching, The (Umi wa miteita)",1967,Romance
 567,Mr. Saturday Night,1995,Comedy|Drama
 568,Elephant White,1989,Action|Crime|Thriller
 569,Along Came Polly,2006,Comedy|Romance
 570,Attraction,1986,Drama|Romance|Thriller
-571,Open Season 3,2002,Animation|Children|Comedy
+571,"Open Season 3",2002,Animation|Children|Comedy
 572,Dracula Untold,2003,Action|Drama|Fantasy
-573,Kein Bund für's Leben,1998,Comedy
+573,"Kein Bund für's Leben",1998,Comedy
 574,Zatoichi the Outlaw (Zatôichi rôyaburi) (Zatôichi 16),1999,Action|Drama
 575,Elvis and Anabelle,2005,Drama|Romance
 576,Mrs. Doubtfire,1997,Comedy|Drama
@@ -618,11 +618,11 @@ Content_id,title,Release_year,genre
 617,Promise Her Anything,1992,Comedy|Drama
 618,Fahrenheit 9/11,2004,Documentary
 619,Viper in the Fist,2005,Drama
-620,Don't Change Your Husband,1992,Comedy
+620,"Don't Change Your Husband",1992,Comedy
 621,Flight of the Conchords: A Texan Odyssey,1988,Comedy
 622,Police,1998,Comedy
 623,Digging to China,1996,Drama
-624,Satan's School for Girls,2003,Crime|Horror|Mystery
+624,"Satan's School for Girls",2003,Crime|Horror|Mystery
 625,Jack Frost,2010,Children|Comedy|Drama
 626,This Property is Condemned,2012,Drama|Romance
 627,"Children of Glory (Szabadság, szerelem)",1996,Drama|Romance|War
@@ -630,7 +630,7 @@ Content_id,title,Release_year,genre
 629,Resident Evil: Retribution,2008,Action|Horror|Sci-Fi|IMAX
 630,Blacksmith Scene,1994,(no genres listed)
 631,Dawn of the Dead,2009,Action|Drama|Horror
-632,We're Not Married!,1994,Comedy|Romance
+632,"We're Not Married!",1994,Comedy|Romance
 633,High Crimes,2010,Thriller
 634,Septien,1995,Comedy|Drama|Mystery
 635,Firelight,2009,Drama
@@ -642,10 +642,10 @@ Content_id,title,Release_year,genre
 641,Spud,2006,Comedy
 642,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,2004,Comedy|War
 643,"Suburbans, The",2002,Drama
-644,Bustin' Down the Door,1993,Documentary
-645,Vamps,1996,Comedy|Horror|Romance
+644,"Bustin' Down the Door",1993,Documentary
+645,"Vamps",1996,Comedy|Horror|Romance
 646,"Saint in London, The",1986,Action|Comedy|Crime|Drama|Mystery
-647,Dragon Ball Z: Cooler's Revenge (Doragon bôru Z 5: Tobikkiri no saikyô tai saikyô),2001,Action|Adventure|Animation
+647,"Dragon Ball Z: Cooler's Revenge",2001,Action|Adventure|Animation
 648,"Invention of Lying, The",2008,Comedy
 649,Wedlock,1996,Action|Crime|Drama|Sci-Fi|Thriller
 650,"Die, Mommie, Die",1996,Comedy
@@ -658,8 +658,8 @@ Content_id,title,Release_year,genre
 657,Gypsy 83,2008,Drama
 658,Keoma,1998,Action|Drama|Western
 659,Doomed to Die,2004,Crime|Drama|Mystery|Thriller
-660,Ratko: The Dictator's Son (National Lampoon's Ratko: The Dictator's Son),2010,Comedy
-661,National Treasure,2013,Action|Adventure|Drama|Mystery|Thriller
+660,"Ratko: The Dictator's Son ",2010,Comedy
+661,"National Treasure",2013,Action|Adventure|Drama|Mystery|Thriller
 662,Cass,2006,Crime|Drama
 663,Angel,1992,Action|Crime|Thriller
 664,Libre échange,1963,Comedy
@@ -683,12 +683,12 @@ Content_id,title,Release_year,genre
 682,"Plumm Summer, A",2001,Adventure
 683,Morsian yllättää,2001,Comedy
 684,Beyoncé: Life Is But a Dream,2006,Documentary
-685,Yrrol: An Enormously Well Thought Out Movie (Yrrol - en kolossalt genomtänkt film),2000,Comedy
+685,Yrrol: An Enormously Well Thought Out Movie ,2000,Comedy
 686,Robin and the 7 Hoods,2004,Comedy|Crime|Musical
 687,Winter Soldier,2007,Documentary|War
 688,Messages Deleted,1995,Mystery|Thriller
 689,Natural Selection,2003,Comedy|Drama
-690,Dr. Seuss' The Lorax,1997,Animation|Fantasy|Musical|IMAX
+690,"Dr. Seuss' The Lorax",1997,Animation|Fantasy|Musical|IMAX
 691,War of the Worlds 2: The Next Wave,2012,Action
 692,"Symphonie pastorale, La",2009,Drama
 693,"Letter From Death Row, A",1996,Crime|Drama
@@ -703,8 +703,8 @@ Content_id,title,Release_year,genre
 702,East Meets West (Dung sing sai tsau 2011),2005,Comedy
 703,"Awful Dr. Orlof, The (Gritos en la Noche)",2006,Horror|Thriller
 704,The Beautiful Story,2001,Adventure|Drama|Fantasy
-705,Changing Sides (De l'autre côté du lit),1994,Comedy
-706,Basket Case,2006,Comedy|Horror
+705,"Changing Sides",1994,Comedy
+706,"Basket Case",2006,Comedy|Horror
 707,"Alibi, The (Lies and Alibis)",2006,Comedy|Drama|Romance
 708,Hands Over the City (Le mani sulla città),1992,Drama
 709,"Cuckoo, The (Kukushka)",2011,Comedy|Drama|War
@@ -730,7 +730,7 @@ Content_id,title,Release_year,genre
 729,"Funeral, The (Ososhiki)",1983,Comedy
 730,SherryBaby,1999,Drama
 731,"Man Who Wasn't There, The",2005,Crime|Drama
-732,Craig Ferguson: A Wee Bit o' Revolution,2012,Comedy
+732,"Craig Ferguson: A Wee Bit o' Revolution",2012,Comedy
 733,Treasure Island,2004,Adventure|Children
 734,"Bothersome Man, The (Brysomme mannen, Den)",2006,Comedy|Drama|Fantasy|Mystery
 735,"Darkest Hour, The",1995,Action|Horror|Sci-Fi|Thriller
@@ -757,8 +757,8 @@ Content_id,title,Release_year,genre
 756,Jenny,1986,Drama
 757,French Kiss,2012,Action|Comedy|Romance
 758,Macbeth,1989,Drama
-759,"Way I Spent the End of the World, The (Cum mi-am petrecut sfarsitul lumii)",2012,Drama
-760,With Six You Get Eggroll,2009,Comedy|Romance
+759,"Way I Spent the End of the World",2012,Drama
+760,"With Six You Get Eggroll",2009,Comedy|Romance
 761,Thy Womb (Sinapupunan),1992,Drama
 762,"Clique, The",2004,Comedy
 763,"Trial of Joan of Arc, The (Procès de Jeanne d'Arc)",1979,Drama|War
@@ -791,7 +791,7 @@ Content_id,title,Release_year,genre
 790,Trust,2008,Comedy|Drama|Romance
 791,"Emergency Escape, The (Wyjscie awaryjne)",2006,Comedy
 792,"Very Brady Sequel, A",1998,Comedy
-793,Pluto's Christmas Tree,2006,Animation|Comedy
+793,"Pluto's Christmas Tree",2006,Animation|Comedy
 794,Dog Pound,2000,Drama
 795,Seven Billiard Tables (Siete mesas de billar francés),2001,Drama
 796,French Film,2011,Comedy|Romance
@@ -801,8 +801,8 @@ Content_id,title,Release_year,genre
 800,Maniac Cop 2,2009,Action|Horror|Thriller
 801,Different from the Others (Anders als die Andern),2011,Drama
 802,Colossus: The Forbin Project,1987,Sci-Fi|Thriller
-803,Murphy's War,1993,War
-804,Infinity,2002,Drama
+803,"Murphy's War",1993,War
+804,"Infinity",2002,Drama
 805,Killers from Space,1995,Sci-Fi
 806,Mon Paradis - Der Winterpalast,2003,Documentary
 807,"Gladiators, The (Gladiatorerna)",2005,Drama|Sci-Fi
@@ -817,7 +817,7 @@ Content_id,title,Release_year,genre
 816,Blood Ties,1993,Crime|Drama|Thriller
 817,"Uninvited, The",1992,Drama|Horror|Mystery|Thriller
 818,LEGO Batman: The Movie - DC Heroes Unite,2012,Action|Adventure|Animation
-819,In Vanda's Room (No Quarto da Vanda),2001,Drama
+819,"In Vanda's Room ",2001,Drama
 820,Surfwise,2001,Documentary
 821,Thirteen,2009,Drama
 822,Mindhunters,1996,Action|Crime|Horror|Mystery|Thriller
@@ -833,7 +833,7 @@ Content_id,title,Release_year,genre
 832,Off the Menu: The Last Days of Chasen's,2008,Documentary
 833,Merrill's Marauders,1990,Adventure|Drama|War
 834,"Mangler, The",2004,Horror
-835,Legend of the Guardians: The Owls of Ga'Hoole,1999,Adventure|Animation|Fantasy|IMAX
+835,"Legend of the Guardians: The Owls of Ga'Hoole",1999,Adventure|Animation|Fantasy|IMAX
 836,Billy Budd,2011,Adventure
 837,"War You Don't See, The",2012,Documentary
 838,Overboard,1986,Comedy|Romance
@@ -846,13 +846,13 @@ Content_id,title,Release_year,genre
 845,Dead Man on Campus,2005,Comedy
 846,Yentl,2009,Drama|Musical|Romance
 847,Space,1990,Drama
-848,It's a Small World,1994,Comedy
+848,"It's a Small World",1994,Comedy
 849,"Suitor, The (Soupirant, Le)",2010,Comedy
 850,From the Earth to the Moon,2012,Action|Documentary|Drama|Thriller
 851,23 (23 - Nichts ist so wie es scheint),2006,Drama|Thriller
 852,Red Chapel (Røde kapel),2010,Comedy|Documentary
 853,Club Sandwich,2011,Comedy
-854,Yesterday's Enemy,2008,Drama|War
+854,"Yesterday's Enemy",2008,Drama|War
 855,Hot Saturday,2011,Drama
 856,Hello Down There,2001,Comedy|Sci-Fi
 857,Modigliani,2008,Drama
@@ -863,13 +863,13 @@ Content_id,title,Release_year,genre
 862,Black Dynamite,2011,Action|Comedy
 863,Real Life,1996,Comedy
 864,Out for a Kill,2009,Action|Crime|Thriller
-865,Craig's Wife,2011,Drama
-866,Land of the Dead,2005,Action|Horror|Thriller
+865,"Craig's Wife",2011,Drama
+866,"Land of the Dead",2005,Action|Horror|Thriller
 867,"Horse Rebellion, The (Pulakapina)",1990,Drama
 868,"Young Black Stallion, The",2012,Adventure|Children|Drama
 869,Foxy Brown,2012,Action|Crime|Drama
 870,Pure One (Pakeezah),2008,Drama|Musical|Romance
-871,Besieged (a.k.a. L' Assedio),1995,Drama
+871,"Besieged (a.k.a. L' Assedio)",1995,Drama
 872,Planes,2011,Adventure|Animation|Comedy
 873,Kabluey,2012,Comedy|Drama
 874,Black Tar Heroin: The Dark End of the Street,2004,Documentary
@@ -901,7 +901,7 @@ Content_id,title,Release_year,genre
 900,Elvis and Anabelle,1998,Drama|Romance
 901,Canvas,1997,Drama
 902,Deranged,2009,Horror|Thriller
-903,Pascali's Island,2004,Drama
+903,"Pascali's Island",2004,Drama
 904,The Trial of Lee Harvey Oswald,1991,Drama
 905,In the Line of Fire,2013,Action|Thriller
 906,Balls of Fury,1993,Comedy
@@ -913,8 +913,8 @@ Content_id,title,Release_year,genre
 912,Pearl Harbor,1998,Action|Drama|Romance|War
 913,A Chinese in a Coma,2003,Comedy
 914,Wild Bill,2008,Crime|Drama
-915,It's Always Fair Weather,2005,Comedy|Drama|Musical
-916,You've Got Mail,2003,Comedy|Romance
+915,"It's Always Fair Weather",2005,Comedy|Drama|Musical
+916,"You've Got Mail",2003,Comedy|Romance
 917,"Jonathan Rosenbaum, Present",1992,Documentary
 918,After the Wedding (Efter brylluppet),2008,Drama
 919,Andre,1993,Adventure|Children|Drama
@@ -922,7 +922,7 @@ Content_id,title,Release_year,genre
 921,"Last Seven, The",2012,Horror|Mystery|Thriller
 922,Among Us (Onder Ons),2004,Drama
 923,The Diary of a Teenage Girl,2008,Drama
-924,Matthew's Days,1996,Drama
+924,"Matthew's Days",1996,Drama
 925,"Kid Stays in the Picture, The",2009,Documentary
 926,Beloved/Friend (a.k.a. Amigo/Amado) (Amic/Amat),1995,Drama
 927,"Dragonphoenix Chronicles: Indomitable, The",1994,Action|Adventure|Fantasy
@@ -939,9 +939,9 @@ Content_id,title,Release_year,genre
 938,Tremors II: Aftershocks,2009,Comedy|Horror|Sci-Fi
 939,Body of Evidence,2000,Drama|Thriller
 940,Savannah Smiles,1995,Comedy
-941,Red's Dream,1997,Animation|Children
+941,"Red's Dream",1997,Animation|Children
 942,Czech Dream (Ceský sen),2002,Documentary
-943,Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard),1994,Animation|Children|Fantasy
+943,Arthur and the Revenge of Maltazard,1994,Animation|Children|Fantasy
 944,Journey 2: The Mysterious Island,2009,Action|Adventure|Comedy|Sci-Fi|IMAX
 945,"Fish Called Wanda, A",1983,Comedy|Crime
 946,"Movie, A",2007,Documentary
